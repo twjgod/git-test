@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("11111");
         System.out.println("11111222");
         System.out.println("gitee");
+        System.out.println("gitee pull");
     }
 }
