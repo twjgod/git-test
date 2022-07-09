@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("11111222");
         System.out.println("gitee");
         System.out.println("gitee pull");
+        System.out.println("gitmaster");
     }
+
 }
