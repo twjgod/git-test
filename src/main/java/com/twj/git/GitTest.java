@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("gitee pull");
         System.out.println("gitmaster");
         System.out.println("test111");
+        System.out.println("tess222");
     }
 
 }
