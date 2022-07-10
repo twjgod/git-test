@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("test111");
         System.out.println("tess222");
         System.out.println("git fetch");
+        System.out.println("idea branch");
     }
 
 }
